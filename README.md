@@ -35,7 +35,7 @@ Projects from coursework and practice implementations of core CS concepts.
 
 ---
 
-## 📊 Research & Technical Experience
+## Research & Technical Experience
 
 ### NIST Research – Distributed ML Optimization
 - Optimized ML algorithms in **Python (TensorFlow, NumPy)** for distributed systems.
@@ -44,7 +44,7 @@ Projects from coursework and practice implementations of core CS concepts.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages:** Python, Java, Swift, C++, HTML/CSS  
 **Frameworks/Libraries:** TensorFlow, NumPy, pandas, SwiftUI, Firebase  
 **Tools:** Git, GitHub, Xcode, VS Code, Linux, Bash  
